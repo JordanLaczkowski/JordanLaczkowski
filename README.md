@@ -12,5 +12,5 @@ Here are some ideas to get you started:-->
 <!-- - 💬 Ask me about ...--> 
 - 📫 How to reach me: jordan.laczkowski23@gmail.com
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: I am a High School Varsity Coach for Girls Basketball 🏀
+- ⚡ Fun fact: I have a Shih-Tzu named Leo 🐶
 
