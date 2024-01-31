@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently in school at DU in their Full Stack Web Development Bootcamp
-- 🌱 I’m currently learning React
+- 🔭 I have completed DU's Full Stack Web Development Bootcamp
 <!-- - 👯 I’m looking to collaborate on ...--> 
 <!-- - 🤔 I’m looking for help with ...--> 
 <!-- - 💬 Ask me about ...--> 
